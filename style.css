@@ -17,6 +17,9 @@
     background: var(--bg-color);
     color: var(--text-color);
  }
+ .main-container{
+   max-width: 90%;
+ }
  header{
     position: fixed;
     width: 100%;
